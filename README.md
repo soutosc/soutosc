@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Costa</h1>
 <h3 align="center">A software developer from Canada.</h3>
-
+<a align="center" href="https://www.costasoutos.com/" target="blank">costasoutos.com/</a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soutosc&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
-<a href="https://www.costasoutos.com/" target="blank">costasoutos.com/</a>
+
 - 👯 I’m looking to collaborate on **fun and challenging projects**
 
 <h3 align="left">Connect with me:</h3>
